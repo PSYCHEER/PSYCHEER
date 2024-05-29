@@ -1,2 +1,6 @@
 # PSYCHEER
-## Why me?
+* Server creator
+* proGrAMmER
+* Artist
+* Hermaeus Mora
+  
