@@ -7,4 +7,3 @@ I'm programming in C# in UNITY, soon I will open some of my project to public
 I'm making custom graphic arts for CraftTale server, but I can share it later
 ### HARMAEUS MORA
 Monster of knowledge, because knowledge is power!
-  
