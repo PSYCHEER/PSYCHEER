@@ -35,8 +35,4 @@ I'm learning to code a long time already and every day I'm learning new ways to 
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/psycheer"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
+<a href="https://www.ko-fi.com/psycheer"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
